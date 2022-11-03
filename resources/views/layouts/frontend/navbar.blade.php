@@ -53,7 +53,8 @@
 	<!-- /.navbar -->
 	@if(Request::segment(1) == 'branda')
 		<!-- Header -->
-	<header id="head">
+	<header id="head"  style="background: #181015 url({{url('/assets/images/Siswa-SD.jpg')}}) no-repeat;
+    background-size: cover;">
 		<div class="container">
 			<div class="banner-content">
 				<div id="da-slider" class="da-slider">

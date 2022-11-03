@@ -1,85 +1,58 @@
 @extends('layouts.frontend.header')
 
 @section('content')
-	<div id="courses">
-		<div class="container">
-			<h2>Online Courses</h2>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-cogs fa-2x"></i>
-						<div class="text">
-							<h3>Responsive Design</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-leaf fa-2x"></i>
-						<div class="text">
-							<h3>HTML5/CSS3</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-tachometer fa-2x"></i>
-						<div class="text">
-							<h3>Web Designing</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-			</div>
-			<div class="row">
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-eye fa-2x"></i>
-						<div class="text">
-							<h3>Web App Dev</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-quote-right fa-2x"></i>
-						<div class="text">
-							<h3>Data Base</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-				<div class="col-md-4">
-					<div class="featured-box">
-						<i class="fa fa-arrows fa-2x"></i>
-						<div class="text">
-							<h3>Mobile App Dev</h3>
-							Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-						</div>
-					</div>
-				</div>
-			</div>
-
+	<section class="container">
+		<div class="heading">
+			<!-- Heading -->
+			<h2>Sambutan Kepala Sekolah</h2>
 		</div>
-	</div>
+		<div class="row">
+			<div class="col-md-4">
+				<img src="assets/images/nadiem.jpeg" alt="" class="img-responsive">
+			</div>
+			<div class="col-md-8">
+				<p>Assalamualaikum warahmatullahi wabarakatuh,
+				Salam sejahtera bagi kita semua,
+				Om swastiastu,
+				Namo buddhaya,
+				Salam kebajikan,
+				Rahayu.</p>
+
+				<p>Saudara-saudariku sebangsa dan setanah air,
+
+				<p>Selama dua tahun terakhir, banyak sekali tantangan yang harus kita hadapi bersama, yang tidak pernah terbayangkan sebelumnya. Bahkan, kita mungkin tidak pernah membayangkan bahwa kita semua dapat mengatasinya.</p>
+
+				<p>Hari ini, saudara-saudariku, adalah bukti. Bukti bahwa kita jauh lebih tangguh dari semua tantangan, lebih berani dari rasa ragu dan tidak takut untuk mencoba. Kita tidak hanya mampu melewati, tetapi berdiri di garis depan untuk memimpin pemulihan dan kebangkitan.</p>
+
+				<p>Langkah kita hari ini sudah semakin serentak, laju kita sudah semakin cepat. Namun, kita belum sampai di garis akhir. Maka, tidak ada alasan untuk berhenti bergerak meski sejenak. Ke depan, masih akan ada angin yang kencang dan ombak yang jauh lebih besar, serta rintangan yang jauh lebih tinggi. Dan kita akan terus memegang komando, memimpin pemulihan bersama, bergerak untuk Merdeka Belajar.
+
+				<p>Selamat Hari Pendidikan Nasional.</p>
+
+				<p>Wassalamualaikum warahmatullahi wabarakatuh,
+				Om shanti, shanti, shanti, om,
+				Namo buddhaya. </p>
+				<blockquote class="blockquote-1">
+					<p>Kepala Sekolah & Mentri Pendidikan Republik Indonesia</p>
+					<small>Nadiem Anwar Makarim, B.A., M.B.A.</small>
+				</blockquote>
+			</div>
+		</div>
+	</section>
 	<!-- container -->
 	<section class="container">
 		<div class="heading">
 			<!-- Heading -->
-			<h2>Our Students</h2>
+			<h2>Salam Hormat</h2>
 		</div>
 		<div class="row">
 			<div class="col-md-4">
-				<img src="assets/images/1.jpg" alt="" class="img-responsive">
+				<img src="assets/images/anak.webp" alt="" class="img-responsive">
 			</div>
 			<div class="col-md-8">
-				<p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et dolore magnam aliquam quaerat voluptatem. </p>
+				<p>"Anakanak hidup dan tumbuh sesuai kodratnya sendiri. Pendidik hanya dapat merawat dan menuntun tumbuhnya kodrat itu." 2. "Percaya, tegas, penuh ilmu hingga matang jiwanya, serta percaya diri, tidak mudah takut, tabah menghadapi rintangan apapun. 3. Anak-anak hidup dan tumbuh sesuai kodratnya sendiri </p>
 				<blockquote class="blockquote-1">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer posuere erat a ante. Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid</p>
-					<small>Someone famous in <cite title="Source Title">Source Title</cite></small>
+					<p>Mantan Menteri Pengajaran Republik Indonesia & Pahlawan Republik Indonesia</p>
+					<small>Ki Hajar Dewantara</small>
 				</blockquote>
 			</div>
 		</div>
